@@ -8,13 +8,13 @@ This project is about creating cloud simulators for evaluating executions of app
 
 Using IntellJ IDEA with the Scala plugin installed:
 1.	Open IntelliJ IDEA, select “Check out from Version Control” and then “Git”.
-2.	Enter the following URL and click Clone: git clone https://vinaychavan5794@bitbucket.org/cs441-fall2020/vinay_indrajit_chavan_hw1.git
+2.	Enter the following URL and click Clone: git clone https://github.com/vinaychavan5794/Cloud-Simulators.git
 3.	The SBT import screen will appear, proceed with the default options, and confirm with “OK”
 4.	Go to src/main/java/com.vchava2/ and run the simulations. A run configuration is automatically created when you run any of the simulations.
 
 Using Command Line Interface (CLI):
 
-1. Execute command git clone https://vinaychavan5794@bitbucket.org/cs441-fall2020/vinay_indrajit_chavan_hw1.git
+1. Execute command git clone https://github.com/vinaychavan5794/Cloud-Simulators.git
 2. Run the code: sbt clean compile run
 3. You will be asked to make a choice, please read the project structure section for more details
 
